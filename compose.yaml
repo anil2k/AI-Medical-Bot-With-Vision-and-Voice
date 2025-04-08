@@ -1,0 +1,12 @@
+version: '3.8'
+
+services:
+  gradio:
+    build: .
+    ports:
+      - "7879:7860"
+
+    # volumes:
+    #   - .:/app
+    # environment:
+    #   - PYTHONUNBUFFERED=1

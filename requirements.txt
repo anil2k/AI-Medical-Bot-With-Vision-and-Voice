@@ -1,0 +1,8 @@
+gradio
+groq
+gtts
+elevenlabs
+speechrecognition==3.13.0
+pydub
+pyaudio
+python-dotenv
