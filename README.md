@@ -39,7 +39,7 @@ AI-Medical-Bot-With-Vision-and-Voice/
 
 ```bash
 # 1. Clone this repo
-git clone https://github.com/yourname/AI-Medical-Bot-With-Vision-and-Voice.git
+git clone https://github.com/anil2k/AI-Medical-Bot-With-Vision-and-Voice.git
 cd AI-Medical-Bot-With-Vision-and-Voice
 
 # 2. Set up virtual environment
@@ -91,18 +91,7 @@ torch
 torchaudio
 ```
 
----
 
-## 💡 Prompt Engineering (under the hood)
-
-The system uses the following LLM prompt internally:
-
-> You have to act as a professional doctor...  
-> Analyze the image... suggest remedies...  
-> Keep the response short (max 2 sentences)...  
-> Respond like a real doctor, not an AI.
-
----
 
 ## ⚠️ Disclaimer
 
@@ -112,12 +101,7 @@ Always consult a real doctor for medical concerns.
 
 ---
 
-## 👨‍💻 Author
 
-Built by [Your Name] —  
-Pull requests, forks, and suggestions welcome.
-
----
 
 ## 🧠 Future Ideas
 
